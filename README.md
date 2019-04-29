@@ -1,5 +1,6 @@
 # Numerical_Simulations-outputs
-Original outputs files from CII (Collisional Interchange Instability) numerical model
+Original outputs files from CII (Collisional Interchange Instability) numerical model.
+
 ABOUT SIMULATION DATA:
 
 Numerical experiments I, II, and III data are provided through the files NE1.out, NE2.out, NE3.out, respectively.
