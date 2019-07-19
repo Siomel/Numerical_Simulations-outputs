@@ -1,5 +1,5 @@
 # Numerical_Simulations-outputs
-Original outputs files from CII (Collisional Interchange Instability) numerical model.
+Original outputs files from CII (Collisional Interchange Instability) numerical model presented in "Quasiperiodic rising structures in the E-F valley region below the equatorial plasma bubble: A numerical study" Article DOI: 10.1029/2019JA026620
 
 ABOUT SIMULATION DATA:
 
